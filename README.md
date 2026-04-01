@@ -13,4 +13,8 @@ Mc Grady Andres<br>BS Information Technology student at Quezon City University<b
 
 [![](https://visitcount.itsvg.in/api?id=Zimstchnecken&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+* [YouTube Summarizer](https://github.com/Zimstchnecken/Youtube-Summarizer)
+* [Multitenant SaaS Starter Kit](https://github.com/Zimstchnecken/Multitenant-SaaS)
+* [Kampeon (2D Game)](https://github.com/Zimstchnecken/Kampeon)
